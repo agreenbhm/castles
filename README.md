@@ -1,3 +1,3 @@
 # castles
 castles
-<a href="http://beef.xyz/demos/basic.html">open</a>
+<a href="http://test.gfsec.net/demos/basic.html">open</a>
