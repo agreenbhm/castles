@@ -1,3 +1,3 @@
 # castles
 castles
-http://beef.xyz/demos/basic.html
+<a href="http://beef.xyz/demos/basic.html">open</a>
