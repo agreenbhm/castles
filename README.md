@@ -1,3 +1,3 @@
 # castles
 castles
-http://192.168.66.140:3000/demos/basic.html
+http://beef.xyz:3000/demos/basic.html
